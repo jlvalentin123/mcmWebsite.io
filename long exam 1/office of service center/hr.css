@@ -1,0 +1,40 @@
+{
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+header {
+  margin: 20 px;
+  padding: 20px;
+  text-align: center;
+  background-color:Grey;
+
+}
+
+nav {
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 50px;
+  text-align: center  ;
+  background-color: white;
+}
+
+.NavCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 50px;
+  text-align: left;
+}
+.firstCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 50px;
+  text-align: left;
+}
+.secondCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding:  50px;
+  text-align: left;
+  text-align: center  ;
+}

@@ -1,0 +1,114 @@
+body {
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+header {
+  margin: 20 px;
+  padding: 20px;
+  text-align: center;
+  background-color:Grey;
+
+}
+
+.top{
+  margin-left: 150px  ;
+  margin-right  : 150px  ;
+  padding: 20px;
+  text-align: center  ;
+
+}
+
+.firstTitle{
+  margin: 20px  ;
+  padding: 20px;
+  text-align: center;
+  background-color:white;
+
+}
+
+.firstCont{
+  margin-left: 150px  ;
+  margin-right  : 150px  ;
+  padding: 50px;
+  text-align: center;
+}
+
+.secondtTitle{
+  margin: 20px  ;
+  padding: 20px;
+  text-align: center;
+  background-color:white;
+
+}
+
+.secondCont{
+  margin-left: 150px  ;
+  margin-right  : 150px  ;
+  padding: 20px;
+  text-align: center;
+
+}
+
+.thirdTitle{
+  margin: 20px  ;
+  padding: 20px;
+  text-align: center;
+  background-color:white;
+}
+.thirdCont{
+  margin-left: 150px  ;
+  margin-right  : 150px  ;
+  padding: 50px;
+  text-align: center;
+}
+.drop-menu1{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+
+.drop-menu2{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+
+.drop-menu3{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+.drop-menu4{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+.drop-menu5{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+.drop-menu6{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+.drop-menu7{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+.drop-menu8{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,47 @@
+{
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+header {
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 20px;
+  text-align: center;
+  background-color:Grey;
+
+}
+
+.nav{
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+}
+
+.MAPUALEGACY{
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 30px;
+  text-align: center;
+}
+
+.vISION{
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 10px;
+  text-align:center;
+}
+.MISSION{
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 10px;
+  text-align: center;
+}
+.MOTTO{
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 10px;
+  text-align: center;
+}

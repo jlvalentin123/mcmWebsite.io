@@ -1,0 +1,38 @@
+y {
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+header {
+  margin: 20 px;
+  padding: 20px;
+  text-align: center;
+  background-color:Grey;
+
+}
+
+nav {
+  margin: 20px  ;
+  padding: 20px;
+  text-align: center  ;
+  background-color: white;
+}
+
+.NavCont{
+  margin: 30px  ;
+  padding: 30px;
+  text-align: center;
+}
+
+.firstTitle{
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+}
+
+.firstCont{
+  margin:20px;
+  padding: 10px;
+  text-align: center;
+}

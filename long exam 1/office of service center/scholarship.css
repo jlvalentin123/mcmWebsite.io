@@ -1,0 +1,135 @@
+{
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+header {
+  margin: 20 px;
+  padding: 20px;
+  text-align: center;
+  background-color:Grey;
+
+}
+
+.NavCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.NavCont1{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 30px;
+  text-align: left;
+}
+
+.table{
+  margin-left: 500px  ;
+  margin-right: 500px  ;
+  display:block;
+  padding: 30px;
+  text-align: center;
+  table-layout: fixed;
+
+}
+.firstCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.secondCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.thirdCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.fourthCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.fithCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.sixthCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.seventhCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.seventhCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.eigthCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.ninthCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.tenthCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: center;
+  background-color: white;
+}
+.elevenCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.twelveCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}
+.thirteenCont{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+}

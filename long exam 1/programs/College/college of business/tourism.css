@@ -1,0 +1,64 @@
+body {
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+header {
+  margin: 20 px;
+  padding: 20px;
+  text-align: center;
+  background-color:Grey;
+
+}
+
+.top{
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 50px;
+  text-align: center;
+}
+
+
+.fristTitle{
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+}
+
+.fristCont{
+  margin-left: 150px;
+  margin-right: 150px;
+padding: 50px;
+text-align: left;
+}
+
+.secondTitle{
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+
+}
+
+.secondCont{
+  margin-left: 150px;
+  margin-right: 150px;
+padding: 50px;
+text-align: left;
+}
+
+.thirdTitle{
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+
+}
+
+.thirdCont{
+  margin-left: 150px;
+  margin-right: 150px;
+padding: 50px;
+text-align: left;
+}

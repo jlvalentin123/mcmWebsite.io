@@ -1,0 +1,87 @@
+body {
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+header {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color:Grey;
+
+}
+
+.top{
+  margin-left: 200px  ;
+  margin-right: 200px  ;
+  padding: 20px;
+  text-align: center  ;
+
+}
+
+.firstTitle{
+  margin: 15px  ;
+  padding: 20px;
+  text-align: center;
+  background-color:white;
+
+}
+
+.firstCont{
+  margin: 10px  ;
+  padding: 20px;
+  text-align: center;
+}
+
+.secondtTitle{
+  margin: 15px  ;
+  padding: 20px;
+  text-align: center;
+  background-color:white;
+}
+
+.secondCont{
+    margin: 10px  ;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.thirdTitle{
+  margin: 15px  ;
+  padding: 20px;
+  text-align: center;
+  background-color:white;
+}
+.thirdCont{
+  margin-left: 200px  ;
+  margin-right: 200px  ;
+    padding: 20px;
+    text-align: center;
+}
+.drop-menu1{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+
+.drop-menu2{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+
+.drop-menu3{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}
+.drop-menu4{
+  margin-left: 150px  ;
+  margin-right: 150px  ;
+    padding: 20px;
+    text-align: center;
+}

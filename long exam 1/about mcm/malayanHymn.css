@@ -1,0 +1,49 @@
+{
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+header {
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 20px;
+  text-align: center;
+  background-color:Grey;
+
+}
+
+nav {
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 20px;
+  text-align: center  ;
+
+}
+
+.firstCont{
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 10px;
+  text-align: center;
+}
+
+.secondCont{
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 10px;
+  text-align: center;
+}
+
+.thirdCont{
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 10px;
+  text-align: center;
+}
+
+.fourthCont{
+  margin-left: 150 px;
+  margin-right: 150 px;
+  padding: 10px;
+  text-align: left;
+}

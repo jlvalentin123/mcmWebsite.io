@@ -1,0 +1,47 @@
+body {
+  font-family: Arial;
+  background: #f1f1f1;
+}
+
+header {
+  margin: 20 px;
+  padding: 20px;
+  text-align: center;
+  background-color:grey;
+
+}
+
+
+.NavCont{
+  margin-left:200px  ;
+  margin-right:200px  ;
+  padding: 50px;
+  text-align: center;
+}
+
+.firstTitle{
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+}
+
+.firstCont{
+  margin-left:200px  ;
+  margin-right:200px  ;
+  padding: 50px;
+  text-align: left;;
+}
+.secondTitle{
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: white;
+}
+
+.secondCont{
+  margin-left:200px  ;
+  margin-right:200px  ;
+padding: 50px;
+text-align: left;
+}
